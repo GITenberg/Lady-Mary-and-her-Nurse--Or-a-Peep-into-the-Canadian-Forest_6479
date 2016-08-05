@@ -1,0 +1,39 @@
+_repo: Lady-Mary-and-her-Nurse--Or-a-Peep-into-the-Canadian-Forest_6479
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Traill, Catharine Parr Strickland
+    aliases:
+    - Traill, Mrs.
+    - Traill, Catherine Parr
+    birthdate: 1802
+    deathdate: 1899
+    gutenberg_agent_id: '2715'
+    url: http://www.gutenberg.org/2009/agents/2715
+    wikipedia: http://en.wikipedia.org/wiki/Catharine_Parr_Traill
+description: See also PG#8607, In the Forest, which is essentially identical to this
+  text
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Rivers -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Canada -- Juvenile fiction'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Ontario -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Indian embroidery -- North America -- Juvenile fiction'
+- !lcsh 'Nature stories'
+- GITenberg
+title: Lady Mary and her Nurse; Or, a Peep into the Canadian Forest
+url: http://www.gutenberg.org/ebooks/6479
